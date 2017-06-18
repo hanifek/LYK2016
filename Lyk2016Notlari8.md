@@ -85,7 +85,7 @@ systemd-analyze critical-chain
 ~~~
 Web sunucusunun açılmasının ne kadar sürdüğümü görebiliriz.
 
-##SYSTEMCTL ARAÇLARI - JOURNALCTL
+## SYSTEMCTL ARAÇLARI - JOURNALCTL
 Journald daemon’u çekirdek, initrd, servislerinden gelen tüm mesajları kayıt eder, saklar ve journalctl komutu ile bu journald 
 üzerindeki kayıtların sorgulanmasını sağlayıp, işlem yapılabilir. Journald daemon, tüm uygun kaynaklardan verileri kolay ve dinamik 
 bir şekilde işlemek için binary yapıda toplayıp saklamaktadır.
