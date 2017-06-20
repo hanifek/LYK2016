@@ -151,7 +151,7 @@ Sistem saatini ve ayarlarını sorgulamak ve değiştirmek için timedatectl kul
 ~~~bash
 timedatectl
 ~~~
-Sistemin bulunduğu zaman, saat farkı, NTP(internet üzerinden saat ayarları) gösterilir.
+Sistemin bulunduğu zaman, saat farkı gösterilir.
 
 ~~~bash
 timedatectl set-time
