@@ -2,28 +2,6 @@
 Hangi dizinde olduğumuzu **pwd** komutuyla öğreniyorduk. Peki bu dizinler tam olarak ne işe yarıyor, bunu öğrenelim.
 Bu yapıda her dosya **/** simgesiyle ifade edilen **kök dizin**in altındadır.
 Kök dizinin altındaki dizinler;
-- /bin
-- /boot
-- /dev
-- /etc
-- /lib
-- /sbin
-- /lost+found
-- /home
-- /media
-- /opt
-- /mnt
-- /root
-- /run
-- /srv
-- /sys
-- /tmp 
-- /tmp
-- /usr
-- /usr/bin
-- /var
-- /proc
-
 - **/bin**
 Temel ve gerekli kullanıcı komutlarının saklandığı dizindir.
 - **/boot**
